@@ -1,2 +1,5 @@
 codesapece/codesapece/Controller.class
 codesapece/codesapece/CodesapeceApplication.class
+codesapece/codesapece/ApiController.class
+codesapece/codesapece/UserRepository.class
+codesapece/codesapece/User.class
